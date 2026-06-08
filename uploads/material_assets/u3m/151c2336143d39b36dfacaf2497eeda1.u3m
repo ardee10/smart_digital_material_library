@@ -1,0 +1,200 @@
+{
+    "custom": {
+        "Vizoo": {
+            "camera": "D800",
+            "focal_length": 35,
+            "has_alpha_V2": false,
+            "has_sp2": false,
+            "icon": "icon.ico",
+            "lens": "Nikon AF-S Nikkor 35mm f/1.8G ED",
+            "modified": "2025-09-22T02:18:02.323Z",
+            "preview": "40095244_RAW.png",
+            "software_version": "2.2.1 {79de15fa346c6d3f49a15519f2acb3d28d8ec5ce} ",
+            "substance": null,
+            "version": "1.0"
+        },
+        "xTex": "gifoFAHZwI4d/kdQnBEFUEclGBOzgJpNlISU3A+BTNBa/VdNxYBU13MWJqqXPp325tf9/e47H6Bdtpz3crjBig=="
+    },
+    "material": {
+        "back": null,
+        "created": "2024-04-13T08:38:49Z",
+        "description": "",
+        "front": {
+            "alpha": {
+                "constant": 0.9999983570603925,
+                "texture": {
+                    "factor": 1,
+                    "image": {
+                        "dpi": 577.6983784746972,
+                        "height": 21.596875575350893,
+                        "path": "textures/40095244_RAW_ALPHA.png",
+                        "repeat": {
+                            "mode": "normal",
+                            "rotation": 0
+                        },
+                        "width": 32.36013929857136
+                    },
+                    "offset": 0
+                }
+            },
+            "anisotropy_rotation": {
+                "constant": 0,
+                "texture": null
+            },
+            "anisotropy_value": {
+                "constant": 0,
+                "texture": null
+            },
+            "basecolor": {
+                "constant": {
+                    "b": 0.33528925011576294,
+                    "g": 0.5568380560958982,
+                    "r": 0.5938947267517862
+                },
+                "texture": {
+                    "factor": {
+                        "b": 1,
+                        "g": 1,
+                        "r": 1
+                    },
+                    "image": {
+                        "dpi": 577.6983784746972,
+                        "height": 21.596875575350893,
+                        "path": "textures/40095244_RAW_BASE.png",
+                        "repeat": {
+                            "mode": "normal",
+                            "rotation": 0
+                        },
+                        "width": 32.36013929857136
+                    },
+                    "mode": "multiply"
+                }
+            },
+            "clearcoat_normal": {
+                "constant": 0,
+                "texture": null
+            },
+            "clearcoat_roughness": {
+                "constant": 0,
+                "texture": null
+            },
+            "clearcoat_value": {
+                "constant": 0,
+                "texture": null
+            },
+            "displacement": {
+                "constant": 0,
+                "texture": {
+                    "factor": 0,
+                    "image": {
+                        "dpi": 577.6983784746972,
+                        "height": 21.596875575350893,
+                        "path": "textures/40095244_RAW_DISP.png",
+                        "repeat": {
+                            "mode": "normal",
+                            "rotation": 0
+                        },
+                        "width": 32.36013929857136
+                    },
+                    "offset": 0
+                }
+            },
+            "ior": {
+                "constant": 1.4,
+                "texture": null
+            },
+            "metalness": {
+                "constant": 1.9416756222386988e-08,
+                "texture": {
+                    "factor": 1,
+                    "image": {
+                        "dpi": 577.6983784746972,
+                        "height": 21.596875575350893,
+                        "path": "textures/40095244_RAW_MTL.png",
+                        "repeat": {
+                            "mode": "normal",
+                            "rotation": 0
+                        },
+                        "width": 32.36013929857136
+                    },
+                    "offset": 0
+                }
+            },
+            "normal": {
+                "constant": 0.5,
+                "texture": {
+                    "factor": 0.5,
+                    "image": {
+                        "dpi": 577.6983784746972,
+                        "height": 21.596875575350893,
+                        "path": "textures/40095244_RAW_NRM.png",
+                        "repeat": {
+                            "mode": "normal",
+                            "rotation": 0
+                        },
+                        "width": 32.36013929857136
+                    },
+                    "offset": 0
+                }
+            },
+            "roughness": {
+                "constant": 0.8332271122870796,
+                "texture": {
+                    "factor": 1,
+                    "image": {
+                        "dpi": 577.6983784746972,
+                        "height": 21.596875575350893,
+                        "path": "textures/40095244_RAW_ROUGH.png",
+                        "repeat": {
+                            "mode": "normal",
+                            "rotation": 0
+                        },
+                        "width": 32.36013929857136
+                    },
+                    "offset": 0
+                }
+            },
+            "shader": "principled",
+            "sheen_tint": {
+                "constant": 0,
+                "texture": null
+            },
+            "sheen_value": {
+                "constant": 0,
+                "texture": null
+            },
+            "specular_tint": {
+                "constant": 0,
+                "texture": null
+            },
+            "specular_value": {
+                "constant": 0.5,
+                "texture": null
+            },
+            "subsurface_color": {
+                "constant": {
+                    "b": 0,
+                    "g": 0,
+                    "r": 0
+                },
+                "texture": null
+            },
+            "subsurface_radius": {
+                "constant": 0,
+                "texture": null
+            },
+            "subsurface_value": {
+                "constant": 0,
+                "texture": null
+            },
+            "transmission": {
+                "constant": 0,
+                "texture": null
+            }
+        },
+        "id": "{d7635cc8-0686-4c91-aee4-48edfee0fc8c}",
+        "modified": "2025-09-22T02:18:02.323Z",
+        "name": "40095244_RAW"
+    },
+    "schema": "1.0"
+}
